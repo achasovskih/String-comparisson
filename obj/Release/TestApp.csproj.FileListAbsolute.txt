@@ -1,0 +1,10 @@
+G:\Visual studio C#\TestApp\bin\Release\TestApp.exe.config
+G:\Visual studio C#\TestApp\bin\Release\TestApp.exe
+G:\Visual studio C#\TestApp\bin\Release\TestApp.pdb
+G:\Visual studio C#\TestApp\obj\Release\TestApp.csproj.AssemblyReference.cache
+G:\Visual studio C#\TestApp\obj\Release\TestApp.Form1.resources
+G:\Visual studio C#\TestApp\obj\Release\TestApp.Properties.Resources.resources
+G:\Visual studio C#\TestApp\obj\Release\TestApp.csproj.GenerateResource.cache
+G:\Visual studio C#\TestApp\obj\Release\TestApp.csproj.CoreCompileInputs.cache
+G:\Visual studio C#\TestApp\obj\Release\TestApp.exe
+G:\Visual studio C#\TestApp\obj\Release\TestApp.pdb
